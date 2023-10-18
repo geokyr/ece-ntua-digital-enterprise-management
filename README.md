@@ -27,8 +27,8 @@ The third lab focuses on the management of business resources (e.g. warehouse, a
 
 ## Lab 04 - Searching and Recommender Systems
 
-The fourth lab deals with the application of various recommender methods on data in order to derive the corresponding "recommendations" to be given to customers, as well as the evaluation of the results of virtual searches carried out by customers. TF-IDF (Term Frequency - Inverse Document Frequency) and Cosine Similarity were used to rank the results of a virtual search, while Precision, Recall and F-Measure were used to calculate statistics for the results. Finally, a recommender system was implemented, using the Euclidean Distance and the Pearson Correlation Coefficient as similarity metrics, and then K-Nearest Neighbors was used to make recommendations.
+The fourth lab deals with the application of various recommender methods on data in order to derive the corresponding "recommendations" to be given to customers, as well as the evaluation of the results of virtual searches carried out by customers. TF-IDF and Cosine Similarity were used to rank the results of a virtual search, while Precision, Recall and F-Measure were used to calculate statistics for the results. Finally, a recommender system was implemented, using the Euclidean Distance and the Pearson Correlation Coefficient as similarity metrics, and then K-Nearest Neighbors was used to make recommendations.
 
 ## Lab 05 - Process Mining
 
-The fifth lab aims to exploit process mining techniques for the discovery and evaluation of business processes based on the analysis of event logs extracted from information systems. [Disco](https://fluxicon.com/disco/), a business process data analysis tool was used to analyze the event logs and then discover and evaluate the corresponding business processes.
+The fifth lab aims to exploit process mining techniques for the discovery and evaluation of business processes based on the analysis of event logs extracted from information systems. [Disco](https://fluxicon.com/disco/), a business process data analysis tool, was used to analyze the event logs and then discover and evaluate the corresponding business processes.
