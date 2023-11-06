@@ -6,7 +6,7 @@ Lab Assignments for the [Management of the Digital Enterprise](https://www.ece.n
 
 There were 5 lab assignments in total, each one of them focusing on a different topic. The topics are briefly described below.
 
-## Lab 01 - Creating an e-shop
+## Lab 01 - Creating an E-shop
 
 The first lab was about creating an e-shop that sells vinyl records. The e-shop was created using the open-source tool [Magento](http://www.magentocommerce.com//), that was pre-installed on a provided virtual machine image. The main tasks of the lab could be split into 6 categories:
 
