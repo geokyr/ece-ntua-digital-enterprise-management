@@ -1,4 +1,4 @@
-# ece-ntua-management-of-the-digital-enterprise
+# management-of-the-digital-enterprise
 
 Lab Assignments for the [Management of the Digital Enterprise](https://www.ece.ntua.gr/en/undergraduate/courses/3365) course, during the 8th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
